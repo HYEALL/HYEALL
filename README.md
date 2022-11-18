@@ -4,7 +4,7 @@
 kwakse0720@gmail.com
 
 ### ✨Blog
-[Hyeall's Blog](https://.com)
+[Hyeall's Blog](https://foremost-ox-dc1.notion.site/Hyeall-s-Blog-e196feb8724b4b11bfc07582a3f707c1)
 
 ### ✨Language and Tools
 Java Python
