@@ -9,7 +9,10 @@ kwakse0720@gmail.com
 ### 📚 Language and Tools 📚
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEALL&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=HYEALL&show_icons=true">
 <!--## 👋 Hyeall's Github 👋
